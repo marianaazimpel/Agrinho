@@ -2,12 +2,12 @@
 
 :root{
 
-    --cor1: #ecfadd;
-    --cor2: #BCFA5F;
+    --cor1: #c3fb88;
+    --cor2: #3ecb84;
     --cor3: #56a700;
     --cor4: #537A40;
     --cor5: #168c06ce;
-    --cor6: #37633e;
+    --cor6: #207c2fe1;
     --fonte-principal: "Lato";
     --fonte-secundaria: "Roboto";
 }
@@ -101,7 +101,7 @@ body {
   }
   
   .titulo_principal {
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     color: white;
     margin-bottom: 20px;
