@@ -3,7 +3,7 @@
 :root{
 
     --cor1: #91cc52;
-    --cor2: #31bd77;
+    --cor2: #3fc984;
     --cor3: #56a700;
     --cor4: #648d50;
     --cor5: #168c06ce;
@@ -13,7 +13,7 @@
 }
 
 *{
-    margin: 0px;
+    margin: 1px;
     padding: 0px;
 }
 
@@ -71,7 +71,7 @@ body {
   .cesj{
     display: block;
     margin: 0 auto;
-    padding: 2px;
+    padding: 3px;
     max-width: 50px;
     min-width: 30px;
   }
