@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
 :root{
+
     --cor1: #ecfadd;
     --cor2: #BCFA5F;
     --cor3: #56a700;
     --cor4: #537A40;
-    --cor5: #395039;
+    --cor5: #168c06ce;
     --cor6: #37633e;
     --fonte-principal: "Lato";
     --fonte-secundaria: "Roboto";
@@ -100,7 +101,7 @@ body {
   }
   
   .titulo_principal {
-    font-family: var(--fonte-principal);
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color: white;
     margin-bottom: 20px;
@@ -109,10 +110,10 @@ body {
   }
   
   .paragrafo_principal {
-    font-family: var(--fonte-secundaria);
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: white;
-    font-size: 1.2em;
+    font-size: 1.1em;
     max-width: 700px;
     padding-right: 10px;
     padding-left: 10px;
