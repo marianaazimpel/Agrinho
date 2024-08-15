@@ -101,7 +101,7 @@ body {
   }
   
   .titulo_principal {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
     color: rgb(247, 241, 241);
     margin-bottom: 20px;
@@ -166,7 +166,7 @@ body {
   }
 
   footer a {
-    color: white;
+    color: rgb(227, 230, 227);
     font-weight: bold;
     text-decoration: none;
   }
