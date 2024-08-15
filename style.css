@@ -26,7 +26,7 @@ body {
     margin: auto;
     min-width: 280px;
     max-width: 1200px;
-    background-color: white;
+    background-color: rgb(224, 220, 220);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -86,7 +86,7 @@ body {
   
   .menu_item {
     display: inline-block;
-    color: white;
+    color: rgba(236, 222, 222, 0.87);
     padding: 10px;
     text-decoration: none;
     font-family: var(--fonte-principal);
@@ -103,7 +103,7 @@ body {
   .titulo_principal {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
-    color: white;
+    color: rgb(247, 241, 241);
     margin-bottom: 20px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.25);
@@ -159,7 +159,7 @@ body {
   
   footer {
     background-color: var(--cor6);
-    color: white;
+    color: rgb(216, 216, 216);
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
